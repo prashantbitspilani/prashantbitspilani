@@ -28,11 +28,12 @@
 
 	</p>
 </div><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
-<font color="#00000a"><img src="22460a4e8bb4d612e3d9de2ada7f021f_html_e2d316fd55445429.png.html" name="Picture 5" align="bottom" width="113" height="113" border="0"/>
-<img src="22460a4e8bb4d612e3d9de2ada7f021f_html_c0069f924e6aae4a.png.html" name="Picture 2" align="bottom" width="105" height="105" border="0"/>
-<img src="22460a4e8bb4d612e3d9de2ada7f021f_html_c4155e890960fdf.png.html" name="Picture 6" align="bottom" width="113" height="113" border="0"/>
-<img src="22460a4e8bb4d612e3d9de2ada7f021f_html_afd0b009dd4eb083.png.html" name="Picture 7" align="bottom" width="113" height="113" border="0"/>
-<img src="22460a4e8bb4d612e3d9de2ada7f021f_html_c9e730ad6c8d6f0f.png.html" name="Picture 4" align="bottom" width="106" height="103" border="0"/>
+<font color="#00000a"><>
+<
+	/>
+</>
+</>
+</>
 </font></p>
 <p lang="it-IT" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
 <br/>
