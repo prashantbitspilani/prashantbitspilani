@@ -1,37 +1,571 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 7.2.4.1 (Linux)"/>
+	<meta name="author" content="win10"/>
+	<meta name="created" content="2017-07-20T11:07:00"/>
+	<meta name="changedby" content="Prashant Thakur19"/>
+	<meta name="changed" content="2021-06-25T09:27:00"/>
+	<meta name="AppVersion" content="16.0000"/>
+	<meta name="MSIP_Label_0633b888-ae0d-4341-a75f-06e04137d755_ActionId" content="2b52217e-c552-43dd-a036-761cbaeba3f9"/>
+	<meta name="MSIP_Label_0633b888-ae0d-4341-a75f-06e04137d755_ContentBits" content="2"/>
+	<meta name="MSIP_Label_0633b888-ae0d-4341-a75f-06e04137d755_Enabled" content="true"/>
+	<meta name="MSIP_Label_0633b888-ae0d-4341-a75f-06e04137d755_Method" content="Standard"/>
+	<meta name="MSIP_Label_0633b888-ae0d-4341-a75f-06e04137d755_Name" content="0633b888-ae0d-4341-a75f-06e04137d755"/>
+	<meta name="MSIP_Label_0633b888-ae0d-4341-a75f-06e04137d755_SetDate" content="2020-11-25T22:50:23Z"/>
+	<meta name="MSIP_Label_0633b888-ae0d-4341-a75f-06e04137d755_SiteId" content="bea78b3c-4cdb-4130-854a-1d193232e5f4"/>
+	<style type="text/css">
+		@page { size: 8.27in 11.69in; margin-left: 0.75in; margin-right: 0.75in; margin-top: 0.5in }
+		p { font-size: 12pt; line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; border: none; padding: 0in; direction: ltr; background: transparent }
+		a:link { text-decoration: underline }
+	</style>
+</head>
+<body lang="en-US" vlink="#800000" dir="ltr">
+<div title="header"><p style="line-height: 100%; margin-bottom: 0.16in">
+	<br/>
 
-You can use the [editor on GitHub](https://github.com/prashantbitspilani/prashantbitspilani/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	</p>
+</div><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><img src="22460a4e8bb4d612e3d9de2ada7f021f_html_e2d316fd55445429.png.html" name="Picture 5" align="bottom" width="113" height="113" border="0"/>
+<img src="22460a4e8bb4d612e3d9de2ada7f021f_html_c0069f924e6aae4a.png.html" name="Picture 2" align="bottom" width="105" height="105" border="0"/>
+<img src="22460a4e8bb4d612e3d9de2ada7f021f_html_c4155e890960fdf.png.html" name="Picture 6" align="bottom" width="113" height="113" border="0"/>
+<img src="22460a4e8bb4d612e3d9de2ada7f021f_html_afd0b009dd4eb083.png.html" name="Picture 7" align="bottom" width="113" height="113" border="0"/>
+<img src="22460a4e8bb4d612e3d9de2ada7f021f_html_c9e730ad6c8d6f0f.png.html" name="Picture 4" align="bottom" width="106" height="103" border="0"/>
+</font></p>
+<p lang="it-IT" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</p>
+<p lang="it-IT" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-### Markdown
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font size="3" style="font-size: 13pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT"><b>PRASHANT
+KUMAR THAKUR                                                         
+                                                            </b></span></font></font></font></font>
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">E-Mail
+id: prthaku1@gmail.com                                          </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT">	</span></font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: none; padding: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Contact
+No: 984- 424- 9904                                                   
+                               </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT"><b>Exo,
+o365 ,Kubernetes</b></span></font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: none; padding: 0in; text-decoration: none">
+<font color="#00000a">                                               
+                                                                     
+                                         </font>
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-```markdown
-Syntax highlighted code block
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="de-DE"><u><b>CAREER
+OVERVIEW:</b></u></span></font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
+</p>
+<ul>
+	<li><p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>6
+	years and 4 months of total</b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+	experience as a </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>Server
+	Support Engineer</b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+	primarily in Active directory and O365</font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">
+	</span></font></font></font></font>
+	</p>
+</ul>
+<ul>
+	<li><p align="justify" style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Azure AD cloud synchronization using
+	DirSync/AD connect (AD objects synchronization)</font></p>
+</ul>
+<ul>
+	<li><p align="justify" style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Outlook support and configuration through SARA
+	(support and recovery assistant)</font></p>
+	<li><p align="justify" style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Active Directory (Adds), Active Directory
+	Group Policy Objects (GPO); Group Policy Management Console </font>
+	</p>
+	<li><p style="line-height: 100%; margin-right: 0.1in; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Responsible for Incident Management, Problem
+	Management, Change Management</font></p>
+	<li><p style="line-height: 100%; margin-right: 0.1in; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Active Directory domain controller FSMO roles
+	Management.</font></p>
+	<li><p style="line-height: 100%; margin-right: 0.1in; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Group policy objects (GPO) Management</font></p>
+	<li><p style="line-height: 100%; margin-right: 0.1in; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">provide support to customer through Remote /
+	Phone and Email support.</font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Experience working with mobility - MDM
+	(Intune).</font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Installing and </font><font color="#00000a">Managing
+	Active directory </font><font color="#00000a">and </font><font color="#00000a">FSMO
+	Roles </font><font color="#00000a">Transfer in </font><font color="#00000a">Active
+	Directory forest.</font><font color="#00000a"> Troubleshooting
+	replication issues in active directory.</font></p>
+</ul>
+<p style="line-height: 100%; margin-right: 0.1in; margin-bottom: 0in; border: none; padding: 0in">
+<br/>
 
-- Bulleted
-- List
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.5in; margin-bottom: 0in">
+<br/>
 
-1. Numbered
-2. List
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="de-DE"><u><b>Certifications::
+ </b></u></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="de-DE">IBM
+Kubernetes and openshift certification (cognitiveclass.ai)</span></font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a">                            <font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="de-DE">IBM
+Hall Of Fame Q3 2019.</span></font></font></font></p>
+<p lang="de-DE" align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-**Bold** and _Italic_ and `Code` text
+</p>
+<p lang="de-DE" align="justify" style="line-height: 100%; margin-bottom: 0in">
+<br/>
 
-[Link](url) and ![Image](src)
-```
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="de-DE"><u><b>PROFESSIONAL
+EXPERIENCE:</b></u></span></font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Organization:
+  	</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>IBM
+India </b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">(Bangalore).
+                                                             June
+2019 to Present</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Designation:
+  	TSA (Sr.Tech </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">support</font></font><font color="#0000ff"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">)</span></font></font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Duration:
+       	 (1 yr and 7 Months)</font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="fr-FR"><span style="text-decoration: none">Client		</span></span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">
+    </span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT"><span style="text-decoration: none">Juniper
+Networks</span></span></font></font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Tools
+                     Service Now</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-### Jekyll Themes
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Responsibilities:</font></font></font></p>
+<ul>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Taking
+	care of the ticket raised by user on snow and troubleshooting In an
+	in-bound call environment </font></font></font>
+	</p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Dispatching
+	the tickets amount the agents to reduce the backlog in the queue.</font></font></font></p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">McAfee
+	bypass has to be done as per requirement by the user after approval
+	using McAfee portal.</font></font></font></p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Skype
+	admin portal access for providing and terminating the certificate.</font></font></font></p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Also
+	working on task and request created by user for access request for
+	the team OR new hires.</font></font></font></p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Azure
+	portal admin for MFA access and intune registration information</font></font></font></p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">AD
+	on a remote desktop for providing access related to vpn roles and
+	other applications by looking into SG that needs to be assigned as
+	per Department.</font></font></font></p>
+</ul>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prashantbitspilani/prashantbitspilani/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-### Support or Contact
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<br/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Organization:
+  	</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>Tata
+steel,</b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+Jamshedpur(contract)                                         OCT 2018
+to March 2019</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Designation:
+  	O365 (</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">support</font></font><font color="#0000ff"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">)</span></font></font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Duration:
+       	 (6 Months)</font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="fr-FR"><span style="text-decoration: none">Client		</span></span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">
+    </span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT"><span style="text-decoration: none">tatasteel
+(6 months contract)</span></span></font></font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Tools
+                     Service now (ticketing tool)</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Responsibilities:</font></font></font></p>
+<ul>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Support
+	on AD and O365(cloud) for Microsoft subscribed customers which helps
+	the company domain up and running for the which </font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">Convergys
+	corporation</span></font></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+	provides full support and maintains all the information for its
+	customers globally. </font></font></font>
+	</p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">It
+	allows an administrator to maintain Servers for their company Domain
+	and allows managing data for future reference. </font></font></font>
+	</p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Azure
+	AD cloud sync using AD connect (AD objects synchronization to cloud)</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">collecting
+	ETL logs from Timber for mailbox</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Cloud
+	competency, understanding of services and the complexity of the
+	issues that arise in migrations and deployment to the cloud.</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Assist
+	Office 365 customers and partners with configuration of on boarding
+	processes.</font></font></font></p>
+</ul>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in"><br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Organization:
+  	</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>Convergys
+Corporations</b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+(Gurgaon)                                        July 2016 to Feb
+2017</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Designation:
+  	windows admin (</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Active
+directory and Exchange online</font></font><font color="#0000ff"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">)</span></font></font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Duration:
+       	 (6 Months)</font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="fr-FR"><span style="text-decoration: none">Client		</span></span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">
+    </span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT"><span style="text-decoration: none">Microsoft</span></span></font></font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Tools
+                     LMI, CAP (ticketing tool)</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Responsibilities:</font></font></font></p>
+<ul>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Support
+	on AD and O365(cloud) for Microsoft subscribed customers which helps
+	the company domain up and running for the which </font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">Convergys
+	corporation</span></font></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+	provides full support and maintains all the information for its
+	customers globally. </font></font></font>
+	</p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">It
+	allows an administrator to maintain Servers for their company Domain
+	and allows managing data for future reference. </font></font></font>
+	</p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Azure
+	AD cloud synchronization using DirSync/AD connect (AD objects
+	synchronization to cloud)</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">collecting
+	ETL logs from Timber for mailbox</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Cloud
+	competency, understanding of services and the complexity of the
+	issues that arise in migrations and deployment to the cloud.</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Assist
+	Office 365 customers and partners with configuration of on boarding
+	processes.</font></font></font></p>
+</ul>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="pt-PT">Organization
+	</span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="pt-PT"><b>Kirtiman
+technologies(</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="pt-PT">Noida)
+                                                   </span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Dec
+2013 to Feb 2016</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="de-DE">Designation
+  	</span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">windows
+admin(</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Active
+directory )</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Duration
+       	 (2yrs and 2 Months)</font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Tools
+                     Service Now</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Responsibilities</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>:</b></font></font></font></p>
+<ul>
+	<li><p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Windows
+	server support for company domain and make sure every tool is up and
+	running for which </font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">company</span></font></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+	provides full support and maintains all the information for
+	employees.</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Configuring
+	and supporting MS Windows Active Directory Forests.</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Responsible
+	for </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Incident
+	Management, Problem Management, Change Management</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">.
+	</font></font></font>
+	</p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Troubleshoot
+	of server hardware issues by coordinating with the hardware support
+	teams. </font></font></font>
+	</p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Windows
+	2008 R2 AD including Group Policy Object creation and management
+	using PowerShell scripting </font></font></font>
+	</p>
+</ul>
+<p style="line-height: 100%; margin-bottom: 0in"><br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT">Organization
+  	</span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT"><b>Mecon
+LTD</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT">(bangalore)
+(contract)                                          </span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">NOV
+2012 to NOV 2013</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="de-DE">Designation
+  	ENGG Trainee</span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+(windows Active directory support)</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Duration
+     	 (12 Months)</font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Tools
+                     Remote Desktop</font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"> </font>
+</p>
+<p style="line-height: 100%; margin-bottom: 0.08in; text-decoration: none">
+<font color="#00000a"><font size="1" style="font-size: 8pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Responsibilities</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>:</b></font></font></font></font></p>
+<ul>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">This
+	project has various activities such as record maintenance and
+	searching. The searching of record has been made quite simple as all
+	the details of the generated data can be obtained by simply keying
+	in few keywords</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>.</b></font></font></font></p>
+</ul>
+<ul>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Windows
+	</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>Server
+	2008 </b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">installation
+	in a virtual environment.</font></font></font></p>
+	<li><p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Active
+	Directory (server 2012 R2) Active Directory Group Policy Objects
+	(GPO); Group Policy Management Console.</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Troubleshoot
+	of server hardware issues by coordinating with the hardware support
+	teams. </font></font></font>
+	</p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Monitored
+	tools, Security tools and patches after the OS deployment</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Worked
+	on backups and backup schedules, re-triggering failed </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>backups</b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+	manually.</font></font></font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Group
+	policy result wizard to collect logs and troubleshoot GPO issues.</font></font></font></p>
+</ul>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="nl-NL">Organization
+  	</span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="nl-NL"><b>IBM
+India Pvt Ltd</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="nl-NL">,bangalore(contract)
+                                          </span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">FEB
+2011 to Sep 2011</font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="pt-PT">Designation
+  	System Administrator(incident management for mainframe server)</span></font></font></font></p>
+<p align="justify" style="line-height: 100%; margin-left: 0.25in; text-indent: -0.25in; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Duration
+       	 (6 Months)</font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="fr-FR"><span style="text-decoration: none">Client	
+	     </span></span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">Bank
+of Ireland (BOI) and Telstra- incident management</span></font></font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Environment
+         </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT">Citrix,
+BMC remedy,Tivoli.</span></font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p style="line-height: 100%; margin-bottom: 0.08in; text-decoration: none">
+<font color="#00000a"><font size="1" style="font-size: 8pt"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Responsibilities</font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>:</b></font></font></font></font></p>
+<ul>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">There are several servers of an Ireland based
+	bank in which there are about 1500 server and at the L1 level to
+	look after the alerts on the tool. </font>
+	</p>
+	<li><p align="justify" style="line-height: 115%; margin-bottom: 0in; border: none; padding: 0in">
+	applying monthly updates to windows servers 2003/2008R2 versions
+	(WSUS)</p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Monitoring the error logs and alerts on
+	Tivoli, citrix.</font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Manage and administer all aspects of user
+	account management such as password, group, and privilege management
+	for user access </font>
+	</p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Keeping alerts log backup of the shift.</font></p>
+	<li><p style="line-height: 100%; margin-bottom: 0in; border: none; padding: 0in">
+	<font color="#00000a">Keep in touch with the client for the changes
+	which needs to be ignored at the time.</font></p>
+</ul>
+<p style="line-height: 100%; margin-bottom: 0in"><br/>
+
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<br/>
+
+</p>
+<p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><u><b>EDUCATIONAL
+CREDENTIALS:</b></u></font></font></font></p>
+<p style="line-height: 100%; margin-left: 0.5in; margin-bottom: 0in"><br/>
+
+</p>
+<ul>
+	<li><p align="justify" style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
+	<font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="de-DE"><b>B.Tech</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+	(Bachelor of Technology) Degree in </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>Information
+	Technology</b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">
+	in the year 2009 from BPUT (Biju Patnaik University of Technology)
+	with </font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="fr-FR"><b>6.4
+	CGPA</b></span></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">.</font></font></font></p>
+</ul>
+<div title="footer"><p style="line-height: 100%; margin-top: 0.66in; margin-bottom: 0in">
+	<span class="sd-abs-pos" style="position: absolute; top: -0.31in; left: -0.75in; width: 793px"><img src="22460a4e8bb4d612e3d9de2ada7f021f_html_9ce63ceaad4d2be7.gif.html" name="Shape1" alt="Shape1" align="left" hspace="1" width="793" height="11"/>
+</span><span id="Frame1" dir="ltr" style="position: absolute; top: 11.19in; left: 0in; width: 8.26in; border: none; padding: 0in; background: #ffffff"><p align="center" style="line-height: 100%; margin-bottom: 0in">
+		<font color="#000000"><font face="Calibri, serif"><font size="1" style="font-size: 7pt">Juniper
+		Business Use Only</font></font></font></p>
+	</span><br/>
+
+	</p>
+</div>
+</body>
+</html>
