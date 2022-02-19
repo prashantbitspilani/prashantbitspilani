@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
@@ -163,7 +163,7 @@ India </b></font></font><font face="Times New Roman, serif"><font size="2" style
        	 (1 yr and 7 Months)</font></font></font></p>
 <p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
 <font color="#00000a"><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="fr-FR"><span style="text-decoration: none">Client		</span></span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span style="text-decoration: none">
-    </span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT"><span style="text-decoration: none">Juniper
+    </span></font></font></font><font color="#000000"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><span lang="it-IT"><span style="text-decoration: none">
 Networks</span></span></font></font></font></font></p>
 <p style="line-height: 100%; margin-bottom: 0in; text-decoration: none">
 <font color="#00000a"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">Tools
@@ -561,8 +561,7 @@ CREDENTIALS:</b></u></font></font></font></p>
 <div title="footer"><p style="line-height: 100%; margin-top: 0.66in; margin-bottom: 0in">
 	<span class="sd-abs-pos" style="position: absolute; top: -0.31in; left: -0.75in; width: 793px"><img src="22460a4e8bb4d612e3d9de2ada7f021f_html_9ce63ceaad4d2be7.gif.html" name="Shape1" alt="Shape1" align="left" hspace="1" width="793" height="11"/>
 </span><span id="Frame1" dir="ltr" style="position: absolute; top: 11.19in; left: 0in; width: 8.26in; border: none; padding: 0in; background: #ffffff"><p align="center" style="line-height: 100%; margin-bottom: 0in">
-		<font color="#000000"><font face="Calibri, serif"><font size="1" style="font-size: 7pt">Juniper
-		Business Use Only</font></font></font></p>
+		<font color="#000000"><font face="Calibri, serif"><font size="1" style="font-size: 7pt"></font></font></font></p>
 	</span><br/>
 
 	</p>
